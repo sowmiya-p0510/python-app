@@ -1,0 +1,21 @@
+fastapi 
+uvicorn
+python-dotenv
+pydantic
+psycopg2-binary
+cloud-sql-python-connector[pg8000]==1.12.0
+sqlalchemy
+sqlmodel[postgresql]
+python-multipart
+
+# Google Cloud Services
+google-cloud-storage
+google-generativeai
+
+# Google ADK for Agent Development
+google-adk
+
+# Authentication
+google-auth
+PyJWT
+httpx
